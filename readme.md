@@ -3,7 +3,7 @@
 juego del blackjack
 
 
-npm run build
+1. npm run build
 
 para construir el projecto para produccion 
 
